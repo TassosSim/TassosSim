@@ -4,18 +4,18 @@ Right now I'm experimenting with coding, learning new languages, and building pr
 
 **Currently learning:**
 <br>
-[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![My Skills](https://skillicons.dev/icons?i=php,py)](https://skillicons.dev)
 
 ## Stuff I am familiar with:
 **Web:**
 <br>
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 <br>
 **DevOps & Tools:**
 <br>
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=github,git,nginx)](https://skillicons.dev)
 <br>
 **Sec:**
 <br>
-[![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)](#)
+[![My Skills](https://skillicons.dev/icons?i=kali)](https://skillicons.dev)
 
