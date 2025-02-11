@@ -12,6 +12,7 @@ DevOps & Tools:
 <br>
 Sec:
 <br>
+[![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)](#)
 <br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TassosSim&theme=dracula&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TassosSim&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
