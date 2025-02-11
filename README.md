@@ -5,7 +5,7 @@ Right now I'm experimenting with coding, learning new languages, and building pr
 
 **Currently learning:**
 <br>
-[![My Skills](https://skillicons.dev/icons?i=php,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,py,mysql)](https://skillicons.dev)
 
 ## Stuff I am familiar with:
 **Web:**
