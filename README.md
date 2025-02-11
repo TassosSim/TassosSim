@@ -2,6 +2,10 @@
 I’m learning more about pentesting and development in my spare time. 
 Right now I'm experimenting with coding, learning new languages, and building projects to improve my coding skills.
 
+**Currently learning:**
+<br>
+[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+
 ## Stuff I am familiar with:
 **Web:**
 <br>
