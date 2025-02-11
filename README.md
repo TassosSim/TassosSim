@@ -13,7 +13,7 @@ Right now I'm experimenting with coding, learning new languages, and building pr
 <br>
 **DevOps & Tools:**
 <br>
-[![My Skills](https://skillicons.dev/icons?i=github,git,nginx)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ubuntu,debian,github,git,nginx)](https://skillicons.dev)
 <br>
 **Sec:**
 <br>
