@@ -14,9 +14,5 @@ Right now I'm experimenting with coding, learning new languages, and building pr
 <br>
 **Dev Tools & OS:**
 <br>
-[![My Skills](https://skillicons.dev/icons?i=windows,ubuntu,debian,github,git,nginx)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,ubuntu,debian,kali,github,git,nginx)](https://skillicons.dev)
 <br>
-**Sec:**
-<br>
-[![My Skills](https://skillicons.dev/icons?i=kali)](https://skillicons.dev)
-
