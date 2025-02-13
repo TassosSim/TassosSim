@@ -12,9 +12,9 @@ Right now I'm experimenting with coding, learning new languages, and building pr
 <br>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 <br>
-**Dev Tools:**
+**Software & Dev Tools:**
 <br>
-[![My Skills](https://skillicons.dev/icons?i=github,git,nginx)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,github,git,nginx)](https://skillicons.dev)
 <br>
 **OS:**
 <br>
