@@ -5,7 +5,7 @@ Right now I'm experimenting with coding, learning new languages, and building pr
 
 **Currently learning:**
 <br>
-[![My Skills](https://skillicons.dev/icons?i=php,py,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,mysql)](https://skillicons.dev)
 <br>
 [![My Skills](https://skillicons.dev/icons?i=nodejs,react)](https://skillicons.dev)
 
@@ -20,5 +20,5 @@ Right now I'm experimenting with coding, learning new languages, and building pr
 <br>
 **OS:**
 <br>
-[![My Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu,debian)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,linux)](https://skillicons.dev)
 <br>
