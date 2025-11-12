@@ -20,5 +20,5 @@ Right now I'm experimenting with coding, learning new languages, and building pr
 <br>
 **OS:**
 <br>
-[![My Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu,debian,kali)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu,debian)](https://skillicons.dev)
 <br>
