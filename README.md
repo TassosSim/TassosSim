@@ -1,7 +1,7 @@
 ![Header](./header-img.png)
 # About Me:
 I’m learning more about pentesting and web development in my spare time.<br>
-Right now I'm experimenting with coding, learning new languages, and building projects to improve my coding skills.
+Right now I'm learning coding fundamentals after taking a long break.
 
 **Currently learning:**
 <br>
